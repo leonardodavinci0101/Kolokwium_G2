@@ -1,0 +1,5 @@
+dane/proba_A.log:ERROR;A02;utrata_pakietu
+dane/proba_B.log:ERROR;B03;blad_potwierdzenia
+dane/proba_B.log:ERROR;B05;rozlaczenie
+dane/proba_D.log:ERROR;D03;blad_ramki
+dane/proba_D.log:ERROR;D07;utrata_synchronizacji
